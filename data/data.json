@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "title": "Keep Going",
+      "message": "Small progress is still progress."
+    },
+    {
+      "title": "Stay Focused",
+      "message": "Do one thing at a time and keep moving."
+    },
+    {
+      "title": "You Got This",
+      "message": "Believe in yourself and keep trying."
+    },
+    {
+      "title": "Take a Break",
+      "message": "Resting can help you come back stronger."
+    },
+    {
+      "title": "Be Patient",
+      "message": "Good work takes time."
+    },
+    {
+      "title": "Keep Learning",
+      "message": "Every mistake teaches you something."
+    },
+    {
+      "title": "Stay Positive",
+      "message": "A good mindset can change your day."
+    },
+    {
+      "title": "Do Your Best",
+      "message": "You do not need to be perfect, just keep improving."
+    },
+    {
+      "title": "Push Forward",
+      "message": "Even a small step is better than stopping."
+    },
+    {
+      "title": "Trust Yourself",
+      "message": "You are more capable than you think."
+    }
+  ]
+}
